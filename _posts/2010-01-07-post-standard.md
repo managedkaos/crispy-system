@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
