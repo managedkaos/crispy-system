@@ -1,4 +1,4 @@
-serve:
+up serve:
 	bundle exec jekyll serve --watch
 
 build:
